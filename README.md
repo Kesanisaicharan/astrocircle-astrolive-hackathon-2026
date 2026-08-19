@@ -2,6 +2,8 @@
 
 > **Astrology that becomes more engaging when you share it.**
 
+**Developed by Kesani Sai Charan**
+
 AstroCircle is a product concept and working web prototype designed for the **AstroHack 2026 — Build the Next Universe** challenge. It explores how AstroLive can move beyond a consultation-only experience and create a stronger loop around **organic growth, habit formation, social engagement, and new revenue**.
 
 ## 🚀 Product Idea
@@ -154,4 +156,4 @@ AstroCircle is a **hackathon prototype**. Astrology content shown in the demo is
 **Focus:** Growth • Retention • Revenue • USP  
 **Prototype:** Public GitHub repository  
 
-**Built for AstroHack 2026.** ✦
+**Developed by Kesani Sai Charan** ✦
